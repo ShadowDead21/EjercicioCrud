@@ -11,8 +11,6 @@ if (isset($_GET['edit'])) {
 			$nombre = $row['nombre'];
 			$apellido = $row['apellido'];
 			$telefono = $row['telefono'];
-			echo $id;
-			echo $row['id'];
 			
 		}
 	}
